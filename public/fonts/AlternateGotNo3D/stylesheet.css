@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'AlternateGotNo3D';
+    src: url('../fonts/AlternateGotNo3D/AlternateGotNo3D.eot');
+    src: url('../fonts/AlternateGotNo3D/AlternateGotNo3D.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AlternateGotNo3D/AlternateGotNo3D.woff2') format('woff2'),
+        url('../fonts/AlternateGotNo3D/AlternateGotNo3D.woff') format('woff'),
+        url('../fonts/AlternateGotNo3D/AlternateGotNo3D.ttf') format('truetype'),
+        url('../fonts/AlternateGotNo3D/AlternateGotNo3D.svg#AlternateGotNo3D') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

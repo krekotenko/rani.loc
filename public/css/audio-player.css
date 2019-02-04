@@ -1,0 +1,193 @@
+.audio.green-audio-player {
+  width: 400px;
+  min-width: 300px;
+  height: 56px;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.07);
+  -webkit-display: flex;
+  -moz-display: flex;
+  -ms-display: flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -ms-justify-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 24px;
+  padding-right: 24px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  user-select: none;
+  -webkit-user-select: none;
+  background-color: #fff;
+}
+.audio.green-audio-player .play-pause-btn {
+  display: none;
+  cursor: pointer;
+}
+.audio.green-audio-player .spinner {
+  width: 18px;
+  height: 18px;
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/loading.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-animation: spin 0.4s linear infinite;
+  -moz-animation: spin 0.4s linear infinite;
+  -o-animation: spin 0.4s linear infinite;
+  animation: spin 0.4s linear infinite;
+}
+.audio.green-audio-player .slider {
+  -webkit-flex-grow: 1;
+  -moz-flex-grow: 1;
+  -ms-flex-grow: 1;
+  flex-grow: 1;
+  background-color: #D8D8D8;
+  cursor: pointer;
+  position: relative;
+}
+.audio.green-audio-player .slider .progress {
+  background-color: #44BFA3;
+  -webkit-border-radius: inherit;
+  -moz-border-radius: inherit;
+  border-radius: inherit;
+  position: absolute;
+  pointer-events: none;
+}
+.audio.green-audio-player .slider .progress .pin {
+  height: 16px;
+  width: 16px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-color: #44BFA3;
+  position: absolute;
+  pointer-events: all;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.32);
+}
+.audio.green-audio-player .controls {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: #55606E;
+  -webkit-display: flex;
+  -moz-display: flex;
+  -ms-display: flex;
+  display: flex;
+  -webkit-flex-grow: 1;
+  -moz-flex-grow: 1;
+  -ms-flex-grow: 1;
+  flex-grow: 1;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -ms-justify-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.audio.green-audio-player .controls .slider {
+  margin-left: 16px;
+  margin-right: 16px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  height: 4px;
+}
+.audio.green-audio-player .controls .slider .progress {
+  width: 0;
+  height: 100%;
+}
+.audio.green-audio-player .controls .slider .progress .pin {
+  right: -8px;
+  top: -6px;
+}
+.audio.green-audio-player .controls span {
+  cursor: default;
+}
+.audio.green-audio-player .volume {
+  position: relative;
+}
+.audio.green-audio-player .volume .volume-btn {
+  cursor: pointer;
+}
+.audio.green-audio-player .volume .volume-btn.open path {
+  fill: #44BFA3;
+}
+.audio.green-audio-player .volume .volume-controls {
+  width: 30px;
+  height: 135px;
+  background-color: rgba(0, 0, 0, 0.62);
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  position: absolute;
+  left: -3px;
+  bottom: 52px;
+  flex-direction: column;
+  align-items: center;
+  -webkit-display: flex;
+  -moz-display: flex;
+  -ms-display: flex;
+  display: flex;
+}
+.audio.green-audio-player .volume .volume-controls.hidden {
+  display: none;
+}
+.audio.green-audio-player .volume .volume-controls .slider {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 6px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.audio.green-audio-player .volume .volume-controls .slider .progress {
+  bottom: 0;
+  height: 100%;
+  width: 6px;
+}
+.audio.green-audio-player .volume .volume-controls .slider .progress .pin {
+  left: -5px;
+  top: -8px;
+}
+
+.audio.green-audio-player svg, 
+.audio.green-audio-player img {
+  display: block;
+}
+
+@-webkit-keyframes spin {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ(1turn);
+  }
+}
+
+@-moz-keyframes spin {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ(1turn);
+  }
+}
+
+@-o-keyframes spin {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ(1turn);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ(1turn);
+  }
+}

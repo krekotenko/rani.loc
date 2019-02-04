@@ -1,0 +1,13 @@
+/* Amiri Italic */
+@font-face {
+    font-family: 'AmiriItalic';
+    src: url('../fonts/Amiri/Italic/Amiri-Italic.eot');
+    src: url('../fonts/Amiri/Italic/Amiri-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Amiri/Italic/Amiri-Italic.woff2') format('woff2'),
+        url('../fonts/Amiri/Italic/Amiri-Italic.woff') format('woff'),
+        url('../fonts/Amiri/Italic/Amiri-Italic.ttf') format('truetype'),
+        url('../fonts/Amiri/Italic/Amiri-Italic.svg#Amiri-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

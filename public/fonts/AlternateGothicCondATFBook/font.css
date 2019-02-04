@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AlternateGothicCondATF-Book';
+  src: url('AlternateGothicCondATF-Book.eot');
+  src: url('AlternateGothicCondATF-Book.woff2') format('woff2'),
+       url('AlternateGothicCondATF-Book.woff') format('woff'),
+       url('AlternateGothicCondATF-Book.ttf') format('truetype'),
+       url('AlternateGothicCondATF-Book.svg#AlternateGothicCondATF-Book') format('svg'),
+       url('AlternateGothicCondATF-Book.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

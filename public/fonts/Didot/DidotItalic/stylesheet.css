@@ -1,0 +1,13 @@
+/* Didot Italic */
+@font-face {
+    font-family: 'DidotItalic';
+    src: url('../fonts/Didot/DidotItalic/Didot-Italic.eot');
+    src: url('../fonts/Didot/DidotItalic/Didot-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Didot/DidotItalic/Didot-Italic.woff2') format('woff2'),
+        url('../fonts/Didot/DidotItalic/Didot-Italic.woff') format('woff'),
+        url('../fonts/Didot/DidotItalic/Didot-Italic.ttf') format('truetype'),
+        url('../fonts/Didot/DidotItalic/Didot-Italic.svg#Didot-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

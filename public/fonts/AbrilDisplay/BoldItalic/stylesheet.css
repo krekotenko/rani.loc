@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Abril Display';
+    src: url('AbrilDisplay-BoldItalic.eot');
+    src: url('AbrilDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AbrilDisplay-BoldItalic.woff2') format('woff2'),
+        url('AbrilDisplay-BoldItalic.woff') format('woff'),
+        url('AbrilDisplay-BoldItalic.ttf') format('truetype'),
+        url('AbrilDisplay-BoldItalic.svg#AbrilDisplay-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

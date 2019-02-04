@@ -1,0 +1,12 @@
+/* News Cycle Bold */
+@font-face {
+    font-family: 'NewsCycleBold';
+    src: url('../fonts/NewsCycle/Bold/NewsCycle-Bold.eot');
+    src: url('../fonts/NewsCycle/Bold/NewsCycle-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NewsCycle/Bold/NewsCycle-Bold.woff2') format('woff2'),
+        url('../fonts/NewsCycle/Bold/NewsCycle-Bold.woff') format('woff'),
+        url('../fonts/NewsCycle/Bold/NewsCycle-Bold.ttf') format('truetype'),
+        url('../fonts/NewsCycle/Bold/NewsCycle-Bold.svg#NewsCycle-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

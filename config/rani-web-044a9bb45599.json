@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rani-web",
+  "private_key_id": "044a9bb45599d4adfae2b27328abc3846c5bb13f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvzds/YqrD5hvv\nV60NUFjK32p7j4HUG8oghT5pZmu6vbVV6VQPMjBL7HY7Tqu2XORpm2Za6JlOyIxX\nGMACb5TiwSLEpQeBoJ3V2fF6DodeSoesJ/aOjhsnnQ5dpHrY5hCu0Ph03OrLy2G+\nNDipIPpAAOAV4xJzrxSd5K+OVTL1dFILj79Gn7QsFBVllQJtEQ7j+jjxCvdXjOmx\nPpuUq531pl9KV30/Dte5nXdQtsSGA0jMdtLNTwNBELjrxOWYBJrXdplOXua4vn/T\niFTcEA4Iw8cS1s/ESYHYAErwhpUe4K7/CMG2JSxfoPPX/+Mjl6vvns3xFB+rs38f\nUFpPBra7AgMBAAECggEAKSvYkLuWqlIVcLPjvx517OztjwpIqVfoujz6JMzrpcwP\nz5LZMMXcMauq9LCz3f1bMLBIBDo8zQqCc1NEhE2FXKVGcy8C1wS6cf6cYq1MXnSt\n2U9ymmgFS/2oA54ldu5KMeaWiSfDhP6YYWbxbgpfEOYjlHydMaJq/Z80zex+BqVW\nyURRkEJehslTJJQ0ov/qauee6H05qCo0XRS+sWYkpT8tVxYBEpLgUzmw4FkGpyRW\nZaYzDOgozolTOYC3+Nyafpa+9TmEbY2dMTVQZ/9TjUA3UEkTfW33d/eXpnNi4yYk\nRcmYMyrysk3V6Gg0EkDUSAiaMUC5LS3eT6RpTCb3gQKBgQD0FzPxZS8TKifV5s+Q\nWch8HIpaGTYrMbpFU0k+2ktJAi1p1GKulDC7rCwUfVz/hY6VJZUgam6m9XFyLU0s\nvk4BhW2XBVgvb9wZkn4KccZEbbdXi9RPM2tQB9VmUNAjXRwxCCtxuk9clrFaBrne\nL/qVyXVoJlzXkzb/4z2DU5q08QKBgQC4YbnDh5IkW4dWSAGJ+VIXKzbcxeG0gZA/\ngAiDp/Ktw5JE0YFhkpU0TZe/ZbMwe6K2SZlLlmWArcvy1NHEkQwCe5SPD/lHJVsd\nWZ4c0wqLrlWMzv4rUv7OGl/fyTpTOWCOlBbsoHHV+AfQ9N262k/q1Yz4vg61nb1b\nLmrklVZ2awKBgE8OPMqQRQDmBGTpDozoJ2DbNYwc4kh3IKdXZD+xH/UTeXXvTc7R\nPD9schJoz/gKX7W6qGQJVLFKiWW7emVldYpUlrv1BSzIA/dcVOo5E0gSaPE33pmQ\nQ8912g37Wo45l+nhhYCeIRoRzHsl9okZ7QUabKZA1o0TpxqVlNS1/UNhAoGAZVX4\nldlF3cucNzR9/AnWLzul/HKZWO64i93fUBSXER9inYYTuL+qV0Op+hx3/laFF/Cd\nWui+wplCdSS4YXNiiV7ISFR8KbkDOb9OYgMvUZOwGyKMmN0Vg8sFFGZxMtpfEh2b\n99M6nWGjUhmyX4aq06MoxnEWfoTCVIHPZ/AXxB8CgYEAuJRg2ruQmzrJfSZtg9y8\nAf3QshPSmtxUQICIY4WZBXxjrNMJayzVvAcN3wKw8VpZqK0ITGe/jelTwKXvIqic\nxs8eCb+iukNqyociaOk8VG4UgwY2YiFheEmdHAnA6dfpIM5i9oHFmVGmiEUDj4ZK\nQLJJxmvB0HZu7osf7CH1M3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rani-service@rani-web.iam.gserviceaccount.com",
+  "client_id": "106952160701911994487",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rani-service%40rani-web.iam.gserviceaccount.com"
+}

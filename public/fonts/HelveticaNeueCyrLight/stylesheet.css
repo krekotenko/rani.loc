@@ -1,0 +1,13 @@
+/* HelveticaNeueCyr Light */
+@font-face {
+    font-family: 'HelveticaNeueCyrLight';
+    src: url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.eot');
+    src: url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.woff2') format('woff2'),
+        url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.woff') format('woff'),
+        url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.ttf') format('truetype'),
+        url('../fonst/HelveticaNeueCyrLight/HelveticaNeueCyr-Light.svg#HelveticaNeueCyr-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
